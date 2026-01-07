@@ -1,11 +1,11 @@
-# x444-Nuker
-x444, fastest nuker on discord written in py.
+# x235-Nuker
+x235, fastest nuker on discord written in py.
 ## Installation
 For compiled version:
 
-- Download latest version from [releases](https://github.com/notspeezy/x444-Nuker/releases)
+- Download latest version from [releases](https://github.com/testaccount11262/vigilant-octo-guacamole)
 - Extract all the content
-- Run x444.exe
+- Run x444.py
 
 For python version:
 
