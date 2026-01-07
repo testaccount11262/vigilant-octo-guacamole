@@ -30,6 +30,5 @@ x235, fastest nuker on discord written in py.
 ## Preview
 ![banall](https://user-images.githubusercontent.com/93849730/180956781-eb23c827-c3ec-4e80-a880-da98ece0bd1e.gif)
 ![avgbans](https://i.postimg.cc/T2NhVPbb/banspersec.png)
-## Skids
-- [Nice2Basic](https://github.com/Nice2Basic) (https://youtu.be/UzaSIoUQ-Xs)
-- [140hermione](https://github.com/140hermione) (https://youtu.be/9eYxI2F3gQQ)
+## Others github
+- [Escape1202](https://github.com/escape1202/X444-Remake-Made-by-my-friend)
