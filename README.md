@@ -1,5 +1,5 @@
-# x235-Nuker
-x235, fastest nuker on discord written in py.
+# x295-Nuker
+x295, fastest nuker on discord written in py.
 ## Installation
 - Install required modules from "requirements.txt"
 - Provide your bot token and channel/roles/messages content in config.json file
