@@ -1,3 +1,5 @@
 NGGYU.webm filter=lfs diff=lfs merge=lfs -text
 NGGYU.mp4 filter=lfs diff=lfs merge=lfs -text
 NGGYU.mp3 filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text
